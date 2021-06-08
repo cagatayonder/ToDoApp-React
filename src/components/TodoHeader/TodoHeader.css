@@ -1,0 +1,8 @@
+.todo-header{
+    display:flex;
+    justify-content:center;
+    color:rgb(207, 141, 18);
+    border-radius: 10px;
+    margin: 5px;
+     
+ }
